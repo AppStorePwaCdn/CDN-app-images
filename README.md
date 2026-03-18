@@ -2,3 +2,4 @@
 
 ## Lien CDN github page:
 
+https://appstorepwacdn.github.io/CDN-app-images/MusicLibrary/screenshot/lecteur.jpg
